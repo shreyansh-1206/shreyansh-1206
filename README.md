@@ -1,21 +1,219 @@
-# 💫 About Me:
-🔭 Working on: Building things that actually work<br><br>👯 Collaborating on: Open Source, AI & Full-Stack Projects<br><br>🤝 Help with: RAG, LLMs, and scalable backend architecture<br><br>🌱 Learning: DSA, System Design, AI, Next.js<br><br>💬 Ask me about: Java, C++, Next.js, Supabase, FastAPI<br><br>⚡ Fun fact: I sing as well
+<!-- Status / ETA: Ready to use immediately -->
 
+````markdown
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyansh1206_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyansh0012) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.shreyansh.1206@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Shreyansh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shreyansh-1206&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shreyansh-1206&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shreyansh-1206&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 👋 Hi, I'm Shreyansh
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shreyansh-1206&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### Full Stack Developer • AI Enthusiast • Computer Science Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;Full+Stack+Developer;Java+%7C+Next.js+%7C+FastAPI;Always+Learning+Something+New"/>
+
+<p>
+
+<a href="https://linkedin.com/in/shreyansh0012">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:s.shreyansh.1206@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/shreyansh1206_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=shreyansh-1206&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+```java
+class Shreyansh {
+
+    String role = "Computer Science Student";
+    String focus = "Full Stack Development & AI";
+
+    String[] currentlyWorkingOn = {
+        "PrepQuest",
+        "AI-powered Learning Platform"
+    };
+
+    String[] currentlyLearning = {
+        "DSA",
+        "System Design",
+        "LLMs",
+        "Advanced Next.js"
+    };
+
+    String[] interests = {
+        "Artificial Intelligence",
+        "Backend Development",
+        "Open Source",
+        "Hackathons"
+    };
+
+}
+````
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 PrepQuest
+
+AI-powered Interview Preparation Platform
+
+* 📄 PDF Question Extraction
+* 🤖 AI Assisted Learning
+* 🎮 Gamified Progress Tracking
+* 📊 Admin Dashboard
+
+**Stack**
+
+Next.js • FastAPI • Supabase • PostgreSQL
+
+---
+
+## 📈 NovaCRM
+
+Modern CRM SaaS Platform
+
+* Authentication
+* Dashboard
+* Analytics
+* Role Management
+
+**Stack**
+
+Next.js • Supabase • Tailwind CSS
+
+---
+
+## 🤖 AI Shopping Assistant
+
+Semantic Search Engine
+
+* Sentence Transformers
+* FAISS
+* Intelligent Search
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts"/>
+
+</p>
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind"/>
+
+</p>
+
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+
+</p>
+
+## Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=supabase,mongodb,mysql,firebase"/>
+
+</p>
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyansh-1206&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh-1206&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-1206&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyansh-1206&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏅 Winner — Group Singing (Epoque)
+
+🏅 Winner — Street Play (IIT Roorkee)
+
+🎤 Solo Stage Performer
+
+💻 AI Arena Hackathon Participant
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:s.shreyansh.1206@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/shreyansh0012">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shreyansh-1206">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=shreyansh-1206\&style=for-the-badge\&color=blue)
+
+⭐ Thanks for visiting my profile!
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
+```
